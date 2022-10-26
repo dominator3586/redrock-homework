@@ -1,0 +1,7 @@
+.box1 {width: 435px;height: 660px;margin: 200px auto;}
+.box2 {width: 246px;height: 43px;border-radius: 5px;float: left;}
+.box3 {width: 354px;height:43px ;}
+
+
+select{height: 48px;width: 108px;border-radius: 5px;float: left;}
+.clearfix {clear: both;}
